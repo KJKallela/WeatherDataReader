@@ -1,0 +1,29 @@
+These values are explained better at http://wiki.sandaysoft.com/a/Monthly_log_files
+
+01.08.15; 		Date
+00:00;			Time
+12,9;			Temperature
+84;			Relative humidity
+10,3;			Dewpoint
+2,2;			Cumulus 'Average' wind speed
+4,7;			Cumulus 'Gust' wind speed
+69;			Average wind bearing (integer degrees)
+0,0;			Current rainfall rate
+0,0;			Total rainfall today so far (i.e. resets to zero at daily rollover)
+1012,4;			Current sea level pressure
+204,6;			Total rainfall counter
+23,9;			Inside temperature
+55;			Inside humidity
+0,8;			Cumulus 'Latest' gust 
+12,4;			wind chill
+12,9;			Heat index
+0;			UV Index
+0;			Solar Ratiation
+0,00;			Evapotranspiration 
+0,00;			Annual Evapotranspiration
+11,5;			Apparent temperature
+0;			Current theoretical max solar radiation
+0,0;			Hours of sunshine so far today
+90;			Current Wind bearing
+0,0;			RG-11 rain today
+0,0			Total Rainfall since midnight
